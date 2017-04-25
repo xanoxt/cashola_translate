@@ -14,9 +14,9 @@
             "TX" : "TX Lists the last 10 transactions to or from your account"
             
         },
-    "THANKS" : "Thank You!",
-    "YES" : "Yes",
-    "NO" : "No",
+    "THANKS" : "Спасибо!",
+    "YES" : "Да",
+    "NO" : "Нет",
     "CURRENCY": "$1",
     "BALANCE":"$1 $2",
     "SEND": "SENT $1 $2 to $3 $4",
