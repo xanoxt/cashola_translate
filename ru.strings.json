@@ -1,6 +1,6 @@
 {
-    "HELLO" : "Welcome to cashola.me $1, powered by VIVA! Say HELP for a list of options, or choose an option",
-    "HELP" : {
+    "Привет" : "Приветствуем в cashola.me $1, на базе VIVA! Скажите ПОМОЩЬ для списка опций, или выберете опцию",
+    "ПОМОЩЬ" : {
             "default": "Valid options are CURRENCY, BALANCE, SEND, PAY, WITHDRAW, DEPOSIT, VERIFY, CLAIM, BILL, TX, you can say HELP OPTION for more details",
             "CURRENCY": "CURRENCY returns a list of all available currencies",
             "BALANCE": "BALANCE [CURRENCY], such as BALANCE USD , or BALANCE ALL for a list of all your balances",
